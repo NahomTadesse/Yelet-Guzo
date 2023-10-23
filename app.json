@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "hello",
+    "slug": "hello",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "compression": {
+      "type": "brotli"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d7affe52-e667-42e8-94d4-02156f824e56"
+      }
+    }
+  },
+  "name": "hello"
+}
